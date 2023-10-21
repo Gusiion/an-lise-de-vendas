@@ -1,0 +1,7 @@
+
+# Descrição do arquivo analise_vendas.xlsx
+
+- **Aba Dados Brutos:** Contém colunas para data da venda, produto, quantidade, preço unitário, vendedor e região.
+- **Aba Tabelas Dinâmicas:** Várias tabelas dinâmicas mostrando análises mensais e anuais, vendas por produto, vendedor e região.
+- **Aba Gráficos:** Gráficos visualizando as tendências de vendas, vendas por produto e vendas por região.
+- **Aba Dashboard:** Uma combinação de tabelas, gráficos e KPIs principais para uma visão geral rápida.
